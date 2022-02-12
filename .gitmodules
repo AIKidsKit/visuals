@@ -1,0 +1,3 @@
+[submodule "src/themes/autophugo"]
+	path = src/themes/autophugo
+	url = https://github.com/kc0bfv/autophugo.git
