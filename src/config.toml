@@ -54,28 +54,13 @@ disableKinds = ["taxonomy", "term"]
 
     [[params.footer.social.links]]
     label = "Twitter"
-    url = "#"
+    url = "https://github.com/azureadvocates"
     icon = "fa-twitter"
-
-    [[params.footer.social.links]]
-    label = "Facebook"
-    url = "#"
-    icon = "fa-facebook"
-
-    [[params.footer.social.links]]
-    label = "Instagram"
-    url = "#"
-    icon = "fa-instagram"
 
     [[params.footer.social.links]]
     label = "Github"
     url = "https://github.com/ai-for-kids/visuals"
     icon = "fa-github"
-
-    [[params.footer.social.links]]
-    label = "LinkedIn"
-    url = "#"
-    icon = "fa-linkedin"
 
     # Contact form
 
@@ -113,4 +98,4 @@ disableKinds = ["taxonomy", "term"]
 
     # Copyright
     [params.footer.copyright]
-    name = "2022 | Microsoft Developer Relations - Build with ♥️ using Hugo. "
+    name = "2022 | Microsoft Developer Relations - Built with ♥️"
