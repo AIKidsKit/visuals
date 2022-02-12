@@ -1,5 +1,7 @@
 # Visualize-AI Kit
 
+![GitHub Pages Build on Push](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+
 Repository with useful visual assets that can be used by educators, parents and community - to help teach these concepts and have conversations with kids in meaningful ways. Look for these subfolders under the [src/assets](src/assets) folder.
 
 | Folder | Purpose |
