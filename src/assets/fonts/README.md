@@ -19,4 +19,6 @@ Here's how we are using it in *this* repo - visit the [GitHub Pages](https://aik
 
 | Name | Description |
 |:---|:---|
-| [Asterix](https://aikidskit.github.io/visuals/fonts/Asterix.ttf) | Custom font created in FontMaker by a middle-schooler |
+| [Asterix](https://aikidskit.github.io/visuals/fonts/Asterix.ttf) | Custom font from kid - regular writing example |
+| [StarryWrites](https://aikidskit.github.io/visuals/fonts/StarryWrites.ttf) | Custom font from kid - whimsical writing example |
+| [cursiveme](https://aikidskit.github.io/visuals/fonts/cursiveme.ttf) | Custom font from adult -  cursive writing example |

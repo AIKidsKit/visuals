@@ -1,9 +1,10 @@
 ---
 title: "Black & White Characters with Backdrops"
 date: 2022-02-12T12:29:29-05:00
-albumthumb: "tiles/black-white-with-backdrops/15.png"
+albumthumb: "tiles/black-white-with-backdrops/0.png"
 draft: false
 resources:
+- src: "tiles/black-white-with-backdrops/0.png"
 - src: "tiles/black-white-with-backdrops/1.png"
 - src: "tiles/black-white-with-backdrops/2.png"
 - src: "tiles/black-white-with-backdrops/3.png"

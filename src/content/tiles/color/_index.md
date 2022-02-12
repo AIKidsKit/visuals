@@ -1,8 +1,8 @@
 ---
 title: "Colorized Characters"
 date: 2022-02-12T12:29:18-05:00
-draft: false
 albumthumb: "tiles/color/1.png"
+draft: false
 resources:
 - src: "tiles/color/1.png"
 - src: "tiles/color/2.png"
