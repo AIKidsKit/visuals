@@ -5,7 +5,7 @@ title = 'AI Kids Kit: Visuals'
 theme = "autophugo"
 
 # publish to /docs for GitHub Pages
-publishDir = "docs/"
+publishDir = "../docs/"
 
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "term"]
