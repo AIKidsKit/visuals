@@ -4,6 +4,7 @@ date: 2022-02-12T12:29:13-05:00
 draft: false
 albumthumb: "tiles/color-with-backdrops/15.png"
 resources:
+- src: "tiles/color-with-backdrops/0.png"
 - src: "tiles/color-with-backdrops/1.png"
 - src: "tiles/color-with-backdrops/2.png"
 - src: "tiles/color-with-backdrops/3.png"
