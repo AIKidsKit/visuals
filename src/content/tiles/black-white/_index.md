@@ -2,7 +2,7 @@
 title: "Black & White Characteris"
 date: 2022-02-12T12:12:39-05:00
 albumthumb: "tiles/black-white/1.png"
-draft: false
+draft: true
 resources:
 - src: "tiles/black-white/1.png"
 - src: "tiles/black-white/2.png"
