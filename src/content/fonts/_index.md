@@ -7,5 +7,6 @@ resources:
 - src: "fonts/Asterix.png"
 - src: "fonts/cursive-me.png"
 - src: "fonts/Starry-Writes.png"
+- src: "fonts/Clickety-Clack.png"
 ---
 
